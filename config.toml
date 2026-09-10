@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://my-first-repo-gamma-five.vercel.app/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = '是不是花会一直落下'
 theme = 'PaperMod'
