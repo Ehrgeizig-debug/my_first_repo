@@ -6,14 +6,14 @@
     <description>Recent content on ZenNiu</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 11 Sep 2026 19:11:48 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 22:28:56 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Default</title>
-      <link>http://localhost:1313/posts/default/</link>
-      <pubDate>Fri, 11 Sep 2026 19:11:48 +0800</pubDate>
-      <guid>http://localhost:1313/posts/default/</guid>
-      <description>&lt;p&gt;这是利用默认的模板来写的页面&lt;/p&gt;</description>
+      <title>02 网站应用&amp;灵感</title>
+      <link>http://localhost:1313/posts/02-%E7%BD%91%E7%AB%99%E5%BA%94%E7%94%A8%E7%81%B5%E6%84%9F/</link>
+      <pubDate>Fri, 11 Sep 2026 22:28:56 +0800</pubDate>
+      <guid>http://localhost:1313/posts/02-%E7%BD%91%E7%AB%99%E5%BA%94%E7%94%A8%E7%81%B5%E6%84%9F/</guid>
+      <description>一些随笔</description>
     </item>
     <item>
       <title>学会走之前，先学会跑</title>
@@ -59,6 +59,13 @@
 &lt;h1 id=&#34;3-后端&#34;&gt;3-后端&lt;/h1&gt;
 &lt;h1 id=&#34;4-数据库&#34;&gt;4-数据库&lt;/h1&gt;
 &lt;h1 id=&#34;5-运维部署&#34;&gt;5-运维&amp;amp;部署&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>🙋‍♂️ 关于我 (About Me)</title>
+      <link>http://localhost:1313/about/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/aboutme/</guid>
+      <description>关于我的背景、技术探索与个人项目。</description>
     </item>
   </channel>
 </rss>

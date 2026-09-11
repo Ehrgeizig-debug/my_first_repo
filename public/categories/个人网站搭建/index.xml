@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>个人网站搭建 on ZenNiu</title>
+    <link>http://localhost:1313/categories/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/</link>
+    <description>Recent content in 个人网站搭建 on ZenNiu</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 11 Sep 2026 22:28:56 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>02 网站应用&amp;灵感</title>
+      <link>http://localhost:1313/posts/02-%E7%BD%91%E7%AB%99%E5%BA%94%E7%94%A8%E7%81%B5%E6%84%9F/</link>
+      <pubDate>Fri, 11 Sep 2026 22:28:56 +0800</pubDate>
+      <guid>http://localhost:1313/posts/02-%E7%BD%91%E7%AB%99%E5%BA%94%E7%94%A8%E7%81%B5%E6%84%9F/</guid>
+      <description>一些随笔</description>
+    </item>
+  </channel>
+</rss>

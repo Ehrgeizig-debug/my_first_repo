@@ -1,23 +1,33 @@
 ---
+# 基础信息
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
+description: ""
 tags: []
 categories: []
-description: ""
 
-# PaperMod 常用功能预设
-ShowToc: true        # 自动显示目录
-TocOpen: false       # 默认不展开目录
+# 页面交互功能
+showToc: true
+TocOpen: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
-
-# 封面图预设（如果不用可以留空或删掉）
-cover:
-    image: ""
-    alt: ""
-    caption: ""
-    relative: false
+ShowPostNavLinks: true
 ---
 
-在这里开始写正文...
+这里写正文的引言或第一段内容...
+
+<!--more-->
+
+### 标题一
+
+正文内容...
+
+* 要点列表 1
+* 要点列表 2
+
+---
+
+### 总结 / 随想
+
+写下最后的总结或思考...
