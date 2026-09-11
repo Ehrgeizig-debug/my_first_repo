@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Default"
+date: 2026-09-11T19:11:48+08:00
 draft: true
 tags: []
 categories: []
@@ -20,4 +20,4 @@ cover:
     relative: false
 ---
 
-在这里开始写正文...
+这是利用默认的模板来写的页面

@@ -1,19 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Project</title>
+    <title>ZenNiu</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Project</description>
+    <description>Recent content on ZenNiu</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2026 22:30:35 +0800</lastBuildDate>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 11 Sep 2026 19:11:48 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <title>Default</title>
+      <link>http://localhost:1313/posts/default/</link>
+      <pubDate>Fri, 11 Sep 2026 19:11:48 +0800</pubDate>
+      <guid>http://localhost:1313/posts/default/</guid>
+      <description>&lt;p&gt;这是利用默认的模板来写的页面&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>学会走之前，先学会跑</title>
+      <link>http://localhost:1313/posts/01-%E5%A4%A7%E7%BA%B2%E8%AE%BE%E8%AE%A1/</link>
       <pubDate>Wed, 09 Sep 2026 22:30:35 +0800</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;这是我的第一个 Mac 搭建 Hugo 个人网站笔记&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/01-%E5%A4%A7%E7%BA%B2%E8%AE%BE%E8%AE%A1/</guid>
+      <description>&lt;h1 id=&#34;总览&#34;&gt;总览&lt;/h1&gt;
+&lt;h2 id=&#34;本地环境与项目搭建&#34;&gt;本地环境与项目搭建&lt;/h2&gt;
+&lt;p&gt;本项目初衷：以最快的方式完成个人网站的搭建，快速部署并上线&lt;/p&gt;
+&lt;p&gt;前期以静态网站为主，采用极简的 MVP模型&lt;/p&gt;
+&lt;p&gt;静态网站生成采用Hugo生成器，生成后的项目保存在本地，通过 Git 进行版本控制。随后推送到自己的 Github 账号。&lt;/p&gt;
+&lt;p&gt;前期首先不购买个人域名，而是使用公网进行部署。技术选型使用 Vercel&lt;/p&gt;
+&lt;p&gt;改动后的博客内容推送到 Github 仓库，同时将 Github 仓库与 Vercel project 进行 webhook 握手🤝&lt;/p&gt;
+&lt;p&gt;只要 Github 仓库发生改变，Vercel project 就能第一时间监测到，并通过其域名暴露在公网上。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;这是一个代码块&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;git-版本控制与-git-托管&#34;&gt;Git 版本控制与 Git 托管&lt;/h2&gt;
+&lt;h2 id=&#34;自动化部署&#34;&gt;自动化部署&lt;/h2&gt;
+&lt;h2 id=&#34;域名购买与dns-解析&#34;&gt;域名购买与DNS 解析&lt;/h2&gt;
+&lt;h1 id=&#34;ssg-是什么&#34;&gt;SSG 是什么&lt;/h1&gt;
+&lt;h1 id=&#34;首次尝试跑通&#34;&gt;首次尝试跑通&lt;/h1&gt;
+&lt;h1 id=&#34;hugo-架构&#34;&gt;HUGO 架构&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>首页</title>
+      <link>http://localhost:1313/posts/00-%E9%A6%96%E9%A1%B5/</link>
+      <pubDate>Wed, 09 Sep 2026 22:30:35 +0800</pubDate>
+      <guid>http://localhost:1313/posts/00-%E9%A6%96%E9%A1%B5/</guid>
+      <description>&lt;h1 id=&#34;1-大纲设计&#34;&gt;1-大纲&amp;amp;设计&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;总览
+&lt;ul&gt;
+&lt;li&gt;本地环境与项目搭建&lt;/li&gt;
+&lt;li&gt;Git 版本控制与 Git 托管&lt;/li&gt;
+&lt;li&gt;自动化部署&lt;/li&gt;
+&lt;li&gt;域名购买与DNS 解析&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;SSG 是什么&lt;/li&gt;
+&lt;li&gt;首次尝试跑通&lt;/li&gt;
+&lt;li&gt;HUGO 架构&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2-前端&#34;&gt;2-前端&lt;/h1&gt;
+&lt;h1 id=&#34;3-后端&#34;&gt;3-后端&lt;/h1&gt;
+&lt;h1 id=&#34;4-数据库&#34;&gt;4-数据库&lt;/h1&gt;
+&lt;h1 id=&#34;5-运维部署&#34;&gt;5-运维&amp;amp;部署&lt;/h1&gt;</description>
     </item>
   </channel>
 </rss>
